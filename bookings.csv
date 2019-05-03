@@ -1,0 +1,11 @@
+reservationID, phone, email, bookingTime, bookingDate, guestsTotal
+1, 3409875032, "lalita@gmail.com", 23:02:45, 2019-01-17, 4
+2, 4598327841, "isha@gmail.com", 11:41:02, 2018-12-01, 2
+3, 8352017941, "teena@gmail.com", 09:10:11, 2018-11-24, 3
+4, 9382578615, "nikita@gmail.com", 17:10:50, 2019-02-24, 2
+5, 5947832650, "radheshyam@gmail.com", 00:11:48, 2019-03-11, 6
+6, 7836245798, "manjari@gmail.com", 8:29:45, 2019-04-01, 2
+7, 9574836525, "chitranjan@gmail.com", 10:44:31, 2018-12-31, 4
+8, 4758379324, "sushant@gmail.com", 08:05:20, 2019-02-25, 2
+9, 8943785944, "virat@gmail.com", 06:21:38, 2018-12-15, 2
+10, 4935671991, "ambika@gmail.com", 15:59:07, 2019-03-20, 3

@@ -1,0 +1,11 @@
+employeeID, name, role, phone, email, wage, hotelName
+1, "Rohini Menon", "CEO", 7555374737, "ceo@hotel.in", 8000000, "Golden Ribbon"
+2, "Nitin Khurana", "COO", 8555147982, "coo@hotel.in", 7500000, "Golden Ribbon"
+3, "Parveen Mukherjee", "Senior Manager", 9855516862, "pmukherjee@hotel.in", 6000000, "Golden Ribbon"
+4, "Ehsaan Saha", "Junior Manager", 9755598220, "esaha@hotel.in", 4500000, "Lunar Garden"
+5, "Bagwati Mathew", "Junior Manager", 9655531131, "bmathew@hotel.in", 4600000, "Elder Aegis"
+6, "Omar Mohabir", "Receptionist", 9355587244, "omohabir@hotel.in", 2400000, "Moonlight"
+7, "Mohan Dada", "Receptionist", 8386491410, "mdada@hotel.in", 2000000, "Sublime Sierra"
+8, "Tulsi Lalla", "Receptionist", 3857193481, "tlalla@hotel.in", 1900000, "Nourish"
+9, "Lakshmi Atwal", "Chef", 4582938714, "latwal@hotel.in", 3900000, "Moonlight"
+10, "Naseer Narayanan", "Janitor", 3792584479, "nnarayanan@hotel.in", 600000, "Nourish"
